@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="Iris for Go">
+<rect width="1280" height="440" rx="32" fill="#FAF9FF"/>
+<circle cx="1180" cy="40" r="260" fill="#7A5AF8" opacity=".10"/>
+<circle cx="80" cy="430" r="200" fill="#F670C7" opacity=".08"/>
+<g transform="translate(110 92) scale(1.0)"><svg width="256" height="256" viewBox="0 0 256 256" fill="none"><defs><linearGradient id="a" x1="70" x2="214" y1="190" y2="44" gradientUnits="userSpaceOnUse"><stop stop-color="#5B32E6"/><stop offset=".5" stop-color="#7A5AF8"/><stop offset="1" stop-color="#C3A6FF"/></linearGradient><linearGradient id="b" x1="118" x2="206" y1="150" y2="54" gradientUnits="userSpaceOnUse"><stop stop-color="#2A1585"/><stop offset="1" stop-color="#5734E0"/></linearGradient><linearGradient id="c" x1="40" x2="128" y1="214" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#F670C7" stop-opacity=".95"/><stop offset=".5" stop-color="#9E77ED"/><stop offset="1" stop-color="#6941C6"/></linearGradient></defs><path stroke="url(#c)" stroke-linecap="round" stroke-width="20" d="M46 208c10-34 36-56 74-60"/><path fill="url(#a)" stroke="url(#a)" stroke-linejoin="round" stroke-width="18" d="M74 112 206 54l-48 138-30-46z"/><path fill="url(#b)" d="m128 146 78-92-92 72z"/></svg></g>
+<text x="420" y="225" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-6" fill="#14102B">Iris</text>
+<rect x="660" y="128" width="190" height="84" rx="42" fill="#00ADD8"/>
+<text x="755" y="185" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF">for Go</text>
+<text x="424" y="300" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#5B5675">Transactional email for Senegal</text>
+<text x="424" y="352" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="28" fill="#5B5675">go get github.com/orvlabs/iris-go</text>
+</svg>
